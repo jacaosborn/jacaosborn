@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Jacob Osborn, an HTML and CSS developer currently learning Javascript and C#.
+I'm currently working through the Software Engineering program at TripleTen and plan to transition into this career path upon completion. I have over 10 years of experience in ecommerce management/strategy and plan to leverage these skillsets together to make waves at a growing SMB (small to medium business). 
+
+- I'm currently working on my TripleTen coursework and on building a website and social following to promote my first board game which I plan to self-publish via crowdfunding in 2026
+- I'm currently learning JavaScript via TripleTen while also learning C# on my own, with an eye for video game development.
+- 2025 goals include finishing TripleTen, getting a new job in software engineering, and finalizing the online presence for my board game company
+- Fun Fact: I am a junior instructor for a local Tai Chi school
 
 <!--
 **jacaosborn/jacaosborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
